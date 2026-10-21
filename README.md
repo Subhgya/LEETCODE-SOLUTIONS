@@ -54,6 +54,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Subhgya/LEETCODE-SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Subhgya/LEETCODE-SOLUTIONS/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Manacher
 |  |
 | ------- |
