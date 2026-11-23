@@ -12,6 +12,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Subhgya/LEETCODE-SOLUTIONS/tree/master/0023-merge-k-sorted-lists) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Subhgya/LEETCODE-SOLUTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Dynamic Programming
 |  |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Subhgya/LEETCODE-SOLUTIONS/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Subhgya/LEETCODE-SOLUTIONS/tree/master/0023-merge-k-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
@@ -83,4 +85,16 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Subhgya/LEETCODE-SOLUTIONS/tree/master/0022-generate-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Subhgya/LEETCODE-SOLUTIONS/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Subhgya/LEETCODE-SOLUTIONS/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Subhgya/LEETCODE-SOLUTIONS/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
