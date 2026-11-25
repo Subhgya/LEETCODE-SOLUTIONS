@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Subhgya/LEETCODE-SOLUTIONS/tree/master/0014-longest-common-prefix) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Subhgya/LEETCODE-SOLUTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Math
 |  |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Subhgya/LEETCODE-SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/Subhgya/LEETCODE-SOLUTIONS/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Subhgya/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Subhgya/LEETCODE-SOLUTIONS/tree/master/0022-generate-parentheses) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Subhgya/LEETCODE-SOLUTIONS/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -97,4 +99,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Subhgya/LEETCODE-SOLUTIONS/tree/master/0023-merge-k-sorted-lists) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Subhgya/LEETCODE-SOLUTIONS/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
