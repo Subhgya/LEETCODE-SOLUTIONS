@@ -6,6 +6,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Subhgya/LEETCODE-SOLUTIONS/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Subhgya/LEETCODE-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Subhgya/LEETCODE-SOLUTIONS/tree/master/0027-remove-element) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Subhgya/LEETCODE-SOLUTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Math
 |  |
@@ -55,6 +56,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Subhgya/LEETCODE-SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Subhgya/LEETCODE-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Subhgya/LEETCODE-SOLUTIONS/tree/master/0027-remove-element) |
 ## String
 |  |
 | ------- |
