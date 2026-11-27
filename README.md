@@ -65,6 +65,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Subhgya/LEETCODE-SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/Subhgya/LEETCODE-SOLUTIONS/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/Subhgya/LEETCODE-SOLUTIONS/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Subhgya/LEETCODE-SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Subhgya/LEETCODE-SOLUTIONS/tree/master/0022-generate-parentheses) |
