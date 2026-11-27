@@ -11,6 +11,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Subhgya/LEETCODE-SOLUTIONS/tree/master/0029-divide-two-integers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Subhgya/LEETCODE-SOLUTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Divide and Conquer
 |  |
@@ -125,4 +126,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Subhgya/LEETCODE-SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Subhgya/LEETCODE-SOLUTIONS/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
